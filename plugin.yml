@@ -1,0 +1,9 @@
+name: ConfigurableMessage
+author: Gov
+version: 1.0.0
+api: 3.0.0
+main: ConfigurableMessage\main
+
+commands:
+  announce:
+    description: /announce broadcasts the configurable message.
